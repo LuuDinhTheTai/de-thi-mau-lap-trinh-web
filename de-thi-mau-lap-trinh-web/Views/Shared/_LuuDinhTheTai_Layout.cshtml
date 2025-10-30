@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - de_thi_mau_lap_trinh_web</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/de_thi_mau_lap_trinh_web.styles.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" media="all" />
+</head>
+<body>
+<partial name="_LuuDinhTheTai_Header"/>
+<div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+<partial name="_LuuDinhTheTai_Footer"/>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script>
+    window.appUrls = {
+        filterProducts: '@Url.Action("FilterProducts", "Home")'
+    };
+</script>
+<script src="~/js/ajax.js"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

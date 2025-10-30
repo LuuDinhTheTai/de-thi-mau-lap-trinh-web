@@ -1,0 +1,93 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>de_thi_mau_lap_trinh_web</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="wwwroot\css\easy-responsive-tabs.css" />
+      <None Include="wwwroot\css\global.css" />
+      <None Include="wwwroot\css\slider.css" />
+      <None Include="wwwroot\css\style.css" />
+      <None Include="wwwroot\font\Amble-Regular-webfont.ttf" />
+      <None Include="wwwroot\images\about_img.jpg" />
+      <None Include="wwwroot\images\arrow-next.png" />
+      <None Include="wwwroot\images\arrow-prev.png" />
+      <None Include="wwwroot\images\arrow_up.png" />
+      <None Include="wwwroot\images\compare.png" />
+      <None Include="wwwroot\images\delivery-img1.jpg" />
+      <None Include="wwwroot\images\delivery-img2.jpg" />
+      <None Include="wwwroot\images\delivery-img3.jpg" />
+      <None Include="wwwroot\images\dribbble.png" />
+      <None Include="wwwroot\images\drop_arrow-hover.png" />
+      <None Include="wwwroot\images\drop_arrow.png" />
+      <None Include="wwwroot\images\facebook.png" />
+      <None Include="wwwroot\images\feature-pic1.jpg" />
+      <None Include="wwwroot\images\feature-pic2.jpg" />
+      <None Include="wwwroot\images\feature-pic3.jpg" />
+      <None Include="wwwroot\images\feature-pic4.jpg" />
+      <None Include="wwwroot\images\Img_1.jpg" />
+      <None Include="wwwroot\images\Img_2.jpg" />
+      <None Include="wwwroot\images\Img_3.jpg" />
+      <None Include="wwwroot\images\Img_4.jpg" />
+      <None Include="wwwroot\images\Img_5.jpg" />
+      <None Include="wwwroot\images\Img_6.jpg" />
+      <None Include="wwwroot\images\linkedin.png" />
+      <None Include="wwwroot\images\list-img.png" />
+      <None Include="wwwroot\images\logo.png" />
+      <None Include="wwwroot\images\new-pic1.jpg" />
+      <None Include="wwwroot\images\new-pic2.jpg" />
+      <None Include="wwwroot\images\new-pic3.jpg" />
+      <None Include="wwwroot\images\new-pic4.jpg" />
+      <None Include="wwwroot\images\newsimg1.jpg" />
+      <None Include="wwwroot\images\newsimg2.jpg" />
+      <None Include="wwwroot\images\newsimg3.jpg" />
+      <None Include="wwwroot\images\preview.jpg" />
+      <None Include="wwwroot\images\price-rating.png" />
+      <None Include="wwwroot\images\productslide-1.jpg" />
+      <None Include="wwwroot\images\productslide-2.jpg" />
+      <None Include="wwwroot\images\productslide-3.jpg" />
+      <None Include="wwwroot\images\productslide-4.jpg" />
+      <None Include="wwwroot\images\productslide-5.jpg" />
+      <None Include="wwwroot\images\productslide-6.jpg" />
+      <None Include="wwwroot\images\quality-rating.png" />
+      <None Include="wwwroot\images\search.png" />
+      <None Include="wwwroot\images\skype.png" />
+      <None Include="wwwroot\images\slide-1-image.png" />
+      <None Include="wwwroot\images\slide-2-image.jpg" />
+      <None Include="wwwroot\images\slide-3-image.jpg" />
+      <None Include="wwwroot\images\tag.png" />
+      <None Include="wwwroot\images\thumbnailslide-1.jpg" />
+      <None Include="wwwroot\images\thumbnailslide-2.jpg" />
+      <None Include="wwwroot\images\thumbnailslide-3.jpg" />
+      <None Include="wwwroot\images\thumbnailslide-4.jpg" />
+      <None Include="wwwroot\images\thumbnailslide-5.jpg" />
+      <None Include="wwwroot\images\thumbnailslide-6.jpg" />
+      <None Include="wwwroot\images\Thumbs.db" />
+      <None Include="wwwroot\images\twitter.png" />
+      <None Include="wwwroot\images\value-rating.png" />
+      <None Include="wwwroot\images\wishlist.png" />
+      <None Include="wwwroot\js\easing.js" />
+      <None Include="wwwroot\js\easyResponsiveTabs.js" />
+      <None Include="wwwroot\js\jquery-1.7.2.min.js" />
+      <None Include="wwwroot\js\jquery.accordion.js" />
+      <None Include="wwwroot\js\jquery.easing.js" />
+      <None Include="wwwroot\js\move-top.js" />
+      <None Include="wwwroot\js\script.js" />
+      <None Include="wwwroot\js\slides.min.jquery.js" />
+      <None Include="wwwroot\js\startstop-slider.js" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.10">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
+</Project>

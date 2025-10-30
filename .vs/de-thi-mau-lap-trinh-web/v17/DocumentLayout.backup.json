@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\home\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\home\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\shared\\_luudinhthetai_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\shared\\_luudinhthetai_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\models\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\models\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\home\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\home\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\wwwroot\\js\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\wwwroot\\js\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\shared\\_luudinhthetai_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\shared\\_luudinhthetai_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\shared\\_luudinhthetai_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\shared\\_luudinhthetai_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|d:\\custom\\it3\\l\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24F46A4-92E5-411A-A64C-2A2CDD8B436B}|de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web.csproj|solutionrelative:de-thi-mau-lap-trinh-web\\template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:52:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Home\\CreateView.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\CreateView.cshtml*",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Home\\CreateView.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:48:16.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Models\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Models\\CreateProductRequest.cs",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Models\\CreateProductRequest.cs",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Models\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:20:21.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ajax.js",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\wwwroot\\js\\ajax.js",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\wwwroot\\js\\ajax.js",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\wwwroot\\js\\ajax.js",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\wwwroot\\js\\ajax.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-29T15:10:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LuuDinhTheTai_Layout.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Layout.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Layout.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Layout.cshtml",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:09:45.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LuuDinhTheTai_Footer.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Footer.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Footer.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Footer.cshtml",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:06:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:06:05.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ProductList.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\_ProductList.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Home\\_ProductList.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\_ProductList.cshtml",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Home\\_ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T14:57:44.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Models\\HangHoa.cs",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Models\\HangHoa.cs",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:28:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T14:46:17.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:44:12.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Template\\index.html",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Template\\index.html",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Template\\index.html",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Template\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T14:42:27.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Program.cs",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Program.cs",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Program.cs",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:31:12.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LuuDinhTheTai_Header.cshtml",
+              "DocumentMoniker": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Header.cshtml",
+              "RelativeDocumentMoniker": "de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Header.cshtml",
+              "ToolTip": "D:\\Custom\\IT3\\L\u1EADp tr\u00ECnh web\\de-thi-mau-lap-trinh-web\\de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Header.cshtml",
+              "RelativeToolTip": "de-thi-mau-lap-trinh-web\\Views\\Shared\\_LuuDinhTheTai_Header.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T14:29:11.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 589,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

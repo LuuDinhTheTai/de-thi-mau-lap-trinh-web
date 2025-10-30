@@ -1,0 +1,76 @@
+﻿using de_thi_mau_lap_trinh_web.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using System.IO;
+
+namespace de_thi_mau_lap_trinh_web.Controllers
+{
+    public class ProductController : Controller
+    {
+        private readonly QlhangHoaContext _context;
+        private readonly IWebHostEnvironment _env;
+
+        public ProductController(QlhangHoaContext context, IWebHostEnvironment env)
+        {
+            _context = context;
+            _env = env;
+        }
+
+        [HttpGet]
+        public IActionResult Index()
+        {
+            var categories = _context.LoaiHangs.ToList();
+            ViewBag.MaLoai = new SelectList(categories, "MaLoai", "TenLoai");
+            return View(new CreateProductRequest());
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(CreateProductRequest request)
+        {
+            var categories = _context.LoaiHangs.ToList();
+
+            if (!ModelState.IsValid)
+            {
+                ViewBag.MaLoai = new SelectList(categories, "MaLoai", "TenLoai");
+                return View("Index", request);
+            }
+
+            // Save uploaded file to wwwroot/images
+            string? savedFileName = null;
+            if (request.Anh != null && request.Anh.Length > 0)
+            {
+                var uploadsFolder = Path.Combine(_env.WebRootPath ?? "wwwroot", "images");
+                if (!Directory.Exists(uploadsFolder))
+                {
+                    Directory.CreateDirectory(uploadsFolder);
+                }
+
+                var extension = Path.GetExtension(request.Anh.FileName);
+                var uniqueName = Guid.NewGuid().ToString() + extension;
+                var filePath = Path.Combine(uploadsFolder, uniqueName);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await request.Anh.CopyToAsync(stream);
+                }
+
+                savedFileName = uniqueName;
+            }
+
+            HangHoa hangHoa = new HangHoa
+            {
+                MaLoai = request.MaLoai,
+                TenHang = request.TenHang,
+                Gia = request.Gia,
+                Anh = savedFileName
+            };
+
+            _context.Add(hangHoa);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index", "Home");
+        }
+    }
+}
